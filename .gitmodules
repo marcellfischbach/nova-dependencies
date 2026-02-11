@@ -4,3 +4,9 @@
 [submodule "json"]
 	path = json
 	url = http://github.com/nlohmann/json.git
+[submodule "assimp"]
+	path = assimp
+	url = https://github.com/assimp/assimp.git
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/madler/zlib.git
